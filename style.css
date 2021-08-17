@@ -1,5 +1,7 @@
 body{
-	background-color: black;
+	background-color: #28222C;
+	display: flex;
+	justify-content: center;
 }
 
 .main-box{
@@ -12,7 +14,6 @@ body{
 
 	width: 350px;
 	height: 620px;
-	border: solid black 1px;
 	border-radius: 25px;
 }
 
